@@ -1,1 +1,1 @@
-# git_umutozcevik
+# git_umutozcevikdeğişiklik yapıldı
